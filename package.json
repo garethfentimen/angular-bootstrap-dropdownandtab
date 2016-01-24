@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "license": "(MIT OR Apache-2.0)",
   "author": "Gareth Fentimen <mail@gfentimen.com>",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gfentimen/angular-bootstrap-dropdownandtab.git"
