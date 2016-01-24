@@ -1,13 +1,19 @@
 {
-	"name": "angular-bootstrap-dopdownandtab",
-	"version": "1.0.0",
-	"license": "(MIT OR Apache-2.0)",
-	"author": {
-		"name": "Gareth Fentimen",
-		"email": "mail@gfentimen.com"
-    },
-    "repository": {
-		"type": "git",
-		"url": "https://github.com/gfentimen/angular-bootstrap-dropdownandtab"
-	}
+  "name": "angular-bootstrap-dopdownandtab",
+  "version": "1.0.0",
+  "license": "(MIT OR Apache-2.0)",
+  "author": "Gareth Fentimen <mail@gfentimen.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfentimen/angular-bootstrap-dropdownandtab.git"
+  },
+  "description": "I am creating this project so I can use just dropdowns and tabs through JSPM without upsetting browser.js",
+  "bugs": {
+    "url": "https://github.com/gfentimen/angular-bootstrap-dropdownandtab/issues"
+  },
+  "homepage": "https://github.com/gfentimen/angular-bootstrap-dropdownandtab#readme",
+  "main": "ui-bootstrap-custom-1.1.0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
