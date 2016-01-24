@@ -6,13 +6,13 @@
   "main": "ui-bootstrap-custom-1.1.0.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gfentimen/angular-bootstrap-dropdownandtab.git"
+    "url": "git+https://github.com/garethfentimen/angular-bootstrap-dropdownandtab.git"
   },
   "description": "I am creating this project so I can use just dropdowns and tabs through JSPM without upsetting browser.js",
   "bugs": {
-    "url": "https://github.com/gfentimen/angular-bootstrap-dropdownandtab/issues"
+    "url": "https://github.com/garethfentimen/angular-bootstrap-dropdownandtab/issues"
   },
-  "homepage": "https://github.com/gfentimen/angular-bootstrap-dropdownandtab#readme",
+  "homepage": "https://github.com/garethfentimen/angular-bootstrap-dropdownandtab#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
