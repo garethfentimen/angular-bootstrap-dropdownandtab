@@ -1,9 +1,9 @@
 {
   "name": "angular-bootstrap-dopdownandtab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "(MIT OR Apache-2.0)",
   "author": "Gareth Fentimen <mail@gfentimen.com>",
-  "main": "index.js",
+  "main": "ui-bootstrap-custom-1.1.0.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gfentimen/angular-bootstrap-dropdownandtab.git"
@@ -13,7 +13,6 @@
     "url": "https://github.com/gfentimen/angular-bootstrap-dropdownandtab/issues"
   },
   "homepage": "https://github.com/gfentimen/angular-bootstrap-dropdownandtab#readme",
-  "main": "ui-bootstrap-custom-1.1.0.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
