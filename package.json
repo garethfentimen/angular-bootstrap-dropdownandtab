@@ -1,6 +1,6 @@
 {
-  "name": "angular-bootstrap-dopdownandtab",
-  "version": "1.0.2",
+  "name": "angular-bootstrap-dropdownandtab",
+  "version": "1.0.0",
   "license": "(MIT OR Apache-2.0)",
   "author": "Gareth Fentimen <mail@gfentimen.com>",
   "main": "ui-bootstrap-custom-1.1.0.js",
